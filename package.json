@@ -1,0 +1,16 @@
+{
+  "name": "node_timbrado_sif",
+  "version": "1.0.0",
+  "description": "Ejemplo de timbrado y cancelacion sifei+",
+  "main": "index.js",
+  "scripts": {
+     
+  },
+  "author": "Daniel Hernandez Fco for Sifei",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^1.3.5",
+    "soap": "^0.31.0",
+    "unzipper": "^0.10.10"
+  }
+}

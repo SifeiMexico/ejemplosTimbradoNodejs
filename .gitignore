@@ -1,0 +1,12 @@
+*.ini
+*.txt
+*.cer
+*.key
+*.pem
+*.pfx
+*.xml
+*.xml
+*.zip
+node_modules/
+tmp/
+.vscode
