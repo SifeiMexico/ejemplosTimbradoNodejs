@@ -1,7 +1,6 @@
 /**
- * Ejemplo de timbrado PHP del WS SOAP getCFDI() de SIFEI. * 
- * 
- * El CFDI(XML) debe estar sellado correctamente
+#Ejemplo de cancelacion WS SOAP cancelaCFDI()
+# Nota: Para simplificar los ejemplos todas las rutas son relativas y los datos se leen de un archivo config.ini, lo cual no debe de hacerse en un ambiente de produccion.
  * Nota: Para simplificar los ejemplos todas las rutas son relativas y los datos se leen de un archivo config.ini, lo cual no debe de hacerse en un ambiente de produccion.
  * Los datos de pruebas y produccion son distintos, deberas solicitar primero tus datos de pruebas y una vez finalizadas tus pruebas deberas reemplazar tus accesos y URL de Ws service.
  */
