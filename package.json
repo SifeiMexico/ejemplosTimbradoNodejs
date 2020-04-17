@@ -6,8 +6,8 @@
   "scripts": {
      
   },
-  "author": "Daniel Hernandez Fco for Sifei",
-  "license": "ISC",
+  "author": "Sifei",
+  "license": "MIT",
   "dependencies": {
     "ini": "^1.3.5",
     "soap": "^0.31.0",
